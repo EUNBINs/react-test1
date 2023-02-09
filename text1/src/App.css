@@ -1,0 +1,28 @@
+.layout-Box {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.todo-Comment {
+  display: flex;
+  justify-content: center;
+}
+.input-Box {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  gap: 5px;
+  justify-content: center;
+}
+.todo-Container{
+  flex-wrap: wrap;
+  display: flex;
+  gap: 12px;
+}
+.todo-Box {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #AECDFF;
+  border-radius: 10px;
+  padding: 12px;
+
+}
